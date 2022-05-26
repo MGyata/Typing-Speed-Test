@@ -1,6 +1,6 @@
 # Typing Speed Test
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-undefined-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-MIT)](https://shields.io)
   ## Table of Contents 
   - [Description](#description)
   - [Usage](#usage)
