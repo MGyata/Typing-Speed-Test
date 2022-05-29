@@ -165,8 +165,7 @@ class speedTyping {
                     
                     // Hold current quote
                     const currentQuote = this.quote.substring(this.index, this.index + this.quote.length);
-       
-                    // Update the input div value when typing
+                     // Update the input div value when typing
                     input.textContent = currentQuote;
                     output.innerHTML += charTyped;
                     // Increment the correct keys
